@@ -51,9 +51,9 @@ output image:
 
 ### Result
 - Results for this algorithm based on dataset of Pascal VOC are 
-    Class accuracy is: 38.888889%
-    No obj accuracy is: 6.138319%
-    Obj accuracy is: 72.682182%
+  - Class accuracy is: 38.888889%
+  - No obj accuracy is: 6.138319%
+  - Obj accuracy is: 72.682182%
 
 ### Reference
 - Redmon et al., 2015, You Only Look Once: Unified real-time object detection
