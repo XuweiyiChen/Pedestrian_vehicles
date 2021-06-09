@@ -1,9 +1,9 @@
-# YOLO v3 - Pedestrain Detection
+# YOLO v3 - Pedestrian Detection
 
 ### Directory structure
 
 ```
-AzureML-ResNet/
+Pedestrian_vehicles/
 ├── experiments
 │   ├── ...
 │
